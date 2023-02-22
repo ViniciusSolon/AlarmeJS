@@ -1,0 +1,21 @@
+body {
+  background-color: #efefef;
+}
+
+.container {
+  text-align: center;
+  margin-top: 125px;
+}
+
+button {
+  background: #069;
+  color: white;
+  font-size: 32px;
+  padding: 8px 20px;
+  cursor: pointer;
+  border: 0;
+}
+
+.tamanhoLetra {
+  font-size: 100px;
+}
